@@ -1,0 +1,92 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+
+
+
+
+.my_fluid{
+width:100%;
+	background-image: url(Slike/logo1.jpg);
+	box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+	background-repeat: no-repeat;
+	position: center;
+	background-size: cover;
+}
+
+
+.col{width: 100%;}   
+.my_col1{	
+	height: 100px;
+
+position: relative;}
+.logo{ width: 55%;
+}
+.my_col2{ height: 100px;}
+.my_col3{height: 300px;}
+.my_col4{height: 190px;
+
+}
+.my_col5{height: 105px;}
+.my_col6{
+	margin-top: 30px;
+	height: 500px;
+	
+
+}
+
+h5{
+	margin-left: 45%;
+
+}
+footer{
+	height: 300px;
+	background-image: url(Slike/banner-1709772_1920.jpg);}
+.my_col8{ margin-top: 30px;
+margin-bottom: 30px;
+ }
+.my_col9{
+	margin-top: 100px;
+}
+.my_nav{
+	float: right;
+	margin-top: 20px;
+}
+.my_nav li a{
+font-family: 'Indie Flower', cursive;
+color: white;
+}
+
+#naslov{
+		margin-top: 150px;
+}
+
+h1{
+	text-align: center;
+	color: #fff;
+	font-size: 60px;
+	font-family: 'Indie Flower', cursive;
+}
+
+.dugmadi{
+
+	
+}
+.btn1,.btn2{
+	border-color: #fff;
+	border-radius: 100px;
+	background-color: transparent;
+	width: 200px;
+	height: 70px;
+	
+}
+.Ikone{
+	margin-left: 60px;
+}
+
+
+
+
+
+
